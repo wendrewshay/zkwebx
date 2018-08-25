@@ -37,7 +37,7 @@ body {
 			<tr>
 				<td><label >data：</label></td>
 				<td>
-				<textarea rows="5" cols="40" name="data">${data}
+				<textarea rows="20" cols="200" name="data">${data}
 				</textarea>
 			</tr>
 			<tr>
